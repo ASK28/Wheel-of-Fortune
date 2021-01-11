@@ -1,7 +1,5 @@
 # Wheel-of-Fortune
 
-# Wheel-of-Fortune
-
 ## INSTRUCTIONS TO PLAY
 *  Double-click Wheel_of_Fortune.py
 * The game will now run and start another graphics window.
